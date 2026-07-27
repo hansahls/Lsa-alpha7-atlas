@@ -1,0 +1,11 @@
+# Electrophysiology data (large/binary experimental files)
+/05_Electrophysiology-setups/**
+/06_Electrophysiology-results/**
+
+# Common electrophysiology raw/result file formats
+*.accdb
+*.r2d
+*.rpf
+
+# Explicit setup spreadsheet coverage
+05_Electrophysiology-setups/*.xlsx
