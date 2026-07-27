@@ -1,0 +1,11 @@
+{
+    "exit_code": 0,
+    "arguments": [
+        "--fasta",
+        "a7_splice3229.11.fasta"
+    ],
+    "app_uri": "DTU/DeepTMHMM:1.0.24",
+    "ended_at": "2024-04-10T09:11:03.501267Z",
+    "job_uuid": "fe6ca944-fd15-4aac-82b4-b91189e39935",
+    "started_at": "2024-04-10T09:07:53.601554Z"
+}

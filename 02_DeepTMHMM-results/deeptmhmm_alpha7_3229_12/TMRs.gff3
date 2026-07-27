@@ -1,0 +1,12 @@
+##gff-version 3
+# Unnamed Length: 444
+# Unnamed Number of predicted TMRs: 4
+Unnamed	outside	1	146				
+Unnamed	TMhelix	147	171				
+Unnamed	inside	172	177				
+Unnamed	TMhelix	178	196				
+Unnamed	outside	197	207				
+Unnamed	TMhelix	208	230				
+Unnamed	inside	231	417				
+Unnamed	TMhelix	418	438				
+Unnamed	outside	439	444				

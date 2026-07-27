@@ -1,0 +1,13 @@
+##gff-version 3
+# uvic.3229.5.p1 Length: 536
+# uvic.3229.5.p1 Number of predicted TMRs: 4
+uvic.3229.5.p1	signal	1	27				
+uvic.3229.5.p1	outside	28	237				
+uvic.3229.5.p1	TMhelix	238	262				
+uvic.3229.5.p1	inside	263	268				
+uvic.3229.5.p1	TMhelix	269	287				
+uvic.3229.5.p1	outside	288	300				
+uvic.3229.5.p1	TMhelix	301	321				
+uvic.3229.5.p1	inside	322	508				
+uvic.3229.5.p1	TMhelix	509	529				
+uvic.3229.5.p1	outside	530	536				

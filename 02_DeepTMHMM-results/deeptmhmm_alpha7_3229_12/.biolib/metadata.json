@@ -1,0 +1,11 @@
+{
+    "exit_code": 0,
+    "arguments": [
+        "--fasta",
+        "input_9r1akwg_sample.fasta"
+    ],
+    "app_uri": "DTU/DeepTMHMM:1.0.42",
+    "ended_at": "2025-01-27T12:27:41.268865Z",
+    "job_uuid": "18733c2f-cb57-4086-8664-ff35734b9122",
+    "started_at": "2025-01-27T12:27:30.951597Z"
+}

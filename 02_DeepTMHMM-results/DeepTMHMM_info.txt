@@ -1,0 +1,16 @@
+Website: https://dtu.biolib.com/DeepTMHMM
+
+Reference BibTex: 
+@misc{
+    author={Jeppe Hallgren, Konstantinos D. Tsirigos, Mads D. Pedersen, José Juan Almagro Armenteros, Paolo Marcatili, Henrik Nielsen, Anders Krogh and Ole Winther}
+    howpublished={Web Server}
+    month={04}
+    title={DeepTMHMM predicts alpha and beta transmembrane proteins using deep neural networks}
+    year={2022}
+    url={https://www.biorxiv.org/content/10.1101/2022.04.08.487609v1}
+    doi={https://doi.org/10.1101/2022.04.08.487609}
+}
+
+Developer: Technical University of Denmark
+
+Version used for this analysis: 1.0.24 (30.3.2023)
